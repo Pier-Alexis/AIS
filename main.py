@@ -6,6 +6,12 @@ from monitoring.process_monitor import monitor_processes
 from alerts.log_handler import log_activity
 from alerts.email_alerts import send_alert
 
+import sys
+print("Chemins d'importation Python :")
+for path in sys.path:
+    print(path)
+
+
 def main():
     print("1. Capture network trafic")
     print("2. Detect a high consommation of network band")
