@@ -16,4 +16,4 @@ and four of them are available on GitHub. His specilality : hardware communicati
   ### Questions or reports
 **For any bug report or question, please go to this github repository : `https://github.com/Pier-Alexis/AIS` and go to Issues. Thanks for contributions.**
 
-2025, Senka107
+### Copyright (c) 2025 Senka107 based on GNU Public License V3.0
